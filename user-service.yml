@@ -4,3 +4,11 @@ spring:
     driver-class-name: org.h2.Driver
     username: sa
     password: '{cipher}c324498a6beb284e06435b0d514e6b4db9def16eb56e5b509c5c0f4554c3fb01'
+
+token:
+  expiration_time: 864000000
+  secret: MlEXO3RdsNF7PyLULtK4u9eP9ljf6XDbO7UQs+/L2ATRLpR37UcLgZRIeXDiHd69+P7+m/x/xFc=
+  encode-secret: TWxFWE8zUmRzTkY3UHlMVUx0SzR1OWVQOWxqZjZYRGJPN1VRcysvTDJBVFJMcFIzN1VjTGdaUkllWERpSGQ2OStQNyttL3gveEZjPQ==
+
+gateway:
+  ip: 192.168.30.166
