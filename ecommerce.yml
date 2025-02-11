@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: MlEXO3RdsNF7PyLULtK4u9eP9ljf6XDbO7UQs+/L2ATRLpR37UcLgZRIeXDiHd69+P7+m/x/xFc=
+  secret: MlEXO3RdsNF7PyLULtK4u9eP9ljf6XDbO7UQs+/L2ATRLpR37UcLgZRIeXDiHd69+P7+m/x/xFc=12345
   encode-secret: TWxFWE8zUmRzTkY3UHlMVUx0SzR1OWVQOWxqZjZYRGJPN1VRcysvTDJBVFJMcFIzN1VjTGdaUkllWERpSGQ2OStQNyttL3gveEZjPQ==
 
 gateway:
