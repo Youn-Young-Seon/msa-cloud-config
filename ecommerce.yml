@@ -7,4 +7,4 @@ gateway:
   ip: 192.168.30.166
 
 test:
-  refresh: abcd
+  refresh: abcd1234
